@@ -7,4 +7,4 @@ after the series of alerts are over, your final pasword is ginerated in the smal
 
 ## screenshot 
 
-![](../images/)
+![](passwordGen/images/preview.png)
